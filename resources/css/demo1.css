@@ -1,0 +1,19 @@
+.myNewStyle {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: yellow;
+}
+p {
+    color: red;
+}
+#thing, #thing1 {
+    color: green;
+}
+
+p #thing {
+
+}
+
+#thing p{
+
+}
